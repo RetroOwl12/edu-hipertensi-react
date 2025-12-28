@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "title": "Apa itu Hipertensi?",
+    "content": "Hipertensi adalah kondisi tekanan darah tinggi yang dapat meningkatkan risiko penyakit jantung, stroke, dan gangguan ginjal. Tekanan darah dikatakan tinggi jika berada di atas 140/90 mmHg secara konsisten.",
+    "category": "Pengertian",
+    "createdAt": "2025-01-01"
+  },
+  {
+    "id": 2,
+    "title": "Penyebab Hipertensi",
+    "content": "Hipertensi dapat disebabkan oleh berbagai faktor seperti pola makan tinggi garam, kurang aktivitas fisik, stres berlebihan, obesitas, serta faktor genetik.",
+    "category": "Penyebab",
+    "createdAt": "2025-01-02"
+  },
+  {
+    "id": 3,
+    "title": "Gejala Hipertensi",
+    "content": "Sebagian besar penderita hipertensi tidak merasakan gejala. Namun, beberapa gejala yang dapat muncul antara lain sakit kepala, pusing, penglihatan kabur, dan mudah lelah.",
+    "category": "Gejala",
+    "createdAt": "2025-01-03"
+  },
+  {
+    "id": 4,
+    "title": "Cara Mencegah Hipertensi",
+    "content": "Pencegahan hipertensi dapat dilakukan dengan menerapkan pola hidup sehat seperti konsumsi makanan bergizi, mengurangi garam, rutin berolahraga, dan mengelola stres.",
+    "category": "Pencegahan",
+    "createdAt": "2025-01-04"
+  },
+  {
+    "id": 1766844307419,
+    "title": "Test",
+    "content": "Test",
+    "category": "Pengertian",
+    "createdAt": "2025-12-27T14:05:07.419Z"
+  },
+  {
+    "id": 1766844338085,
+    "title": "Artikel Admin",
+    "content": "Isi",
+    "category": "Pengertian",
+    "createdAt": "2025-12-27T14:05:38.085Z"
+  },
+  {
+    "id": 1766844455936,
+    "title": "Tes Logout",
+    "content": "Harus gagal",
+    "category": "Pengertian",
+    "createdAt": "2025-12-27T14:07:35.936Z"
+  },
+  {
+    "id": 1766844694973,
+    "title": "Tes",
+    "content": "Harus gagal",
+    "category": "Pengertian",
+    "createdAt": "2025-12-27T14:11:34.973Z"
+  },
+  {
+    "id": 1766844708701,
+    "title": "Tes Login",
+    "content": "Berhasil",
+    "category": "Pengertian",
+    "createdAt": "2025-12-27T14:11:48.701Z"
+  },
+  {
+    "id": 1766844972318,
+    "title": "Tes",
+    "content": "Harus gagal",
+    "category": "Pengertian",
+    "createdAt": "2025-12-27T14:16:12.318Z"
+  },
+  {
+    "id": 1766845174114,
+    "title": "Tes",
+    "content": "Harus gagal",
+    "category": "Pengertian",
+    "createdAt": "2025-12-27T14:19:34.114Z"
+  },
+  {
+    "id": 1766845382859,
+    "title": "Tes",
+    "content": "Harus gagal",
+    "category": "Pengertian",
+    "createdAt": "2025-12-27T14:23:02.859Z"
+  },
+  {
+    "id": 1766845393784,
+    "title": "Admin",
+    "content": "Berhasil",
+    "category": "Pengertian",
+    "createdAt": "2025-12-27T14:23:13.784Z"
+  }
+]
